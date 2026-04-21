@@ -53,7 +53,7 @@ Aportar claridad y capacidad analítica al equipo directivo mediante tableros si
 
 ## 🔗 Acceso al proyecto
 
-👉 [Ver dashboard en Google Sheets](https://docs.google.com/spreadsheets/d/18AXAMfnNmoMLX2TnmrbOosxZJijfIa9PhOLag3LOedE/edit?gid=479005858#gid=479005858)
+👉 [Ver dashboard en Google Sheets](https://docs.google.com/spreadsheets/d/1kYPVY3GiMOG6yp2Y-l5Thbo9csCi3hhINz9rKHpd6fg/edit?usp=sharing)
 
 ---
 
